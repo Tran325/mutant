@@ -1,6 +1,2 @@
-*.pyc
-*.DS_Store
-*~
-build/
-dist/
-MANIFEST
+.env
+target
